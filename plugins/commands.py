@@ -243,12 +243,12 @@ async def help(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Subscribe", url="https://www.youtube.com/@GreyMattersYT"),
+                    InlineKeyboardButton("Request Group", url="https://t.me/Cynite_movies_group12"),
                     InlineKeyboardButton("About Me", callback_data="about_data")
                 ],
                 [
-                    InlineKeyboardButton("BOT Channel", url="https://t.me/GreyMatter_Bots"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/greymatter_support")
+                    InlineKeyboardButton("BOT Channel", url="https://t.me/Rdx_hd_onlinee"),
+                    InlineKeyboardButton("Update Channel ", url="https://t.me/Technical_rakesh_01")
                 ]
             ]
         ),
@@ -265,7 +265,7 @@ async def about(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/Greymattersbot/Unlimited-Filter-Bot")
+                        "SOURCE CODE", url="https://github.com/CrezyDeveloper143/Unlimited-Filter-Bot5")
                 ],
                 [
                     InlineKeyboardButton("BACK", callback_data="help_data"),
